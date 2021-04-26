@@ -1,7 +1,7 @@
-##Cual es el cambio mas significativo del proyecto:
+## Cual es el cambio mas significativo del proyecto:
 
 Areas de modificacion.
-Frontend []
-Bankend []
-CSS []
-Fonts []
+Frontend [ ]
+Bankend [ ]
+CSS [ ]
+Fonts [ ]
